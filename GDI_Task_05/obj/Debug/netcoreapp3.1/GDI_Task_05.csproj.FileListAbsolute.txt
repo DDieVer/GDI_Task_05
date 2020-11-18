@@ -1,0 +1,13 @@
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_01\GDI_Task_05\obj\Debug\netcoreapp3.1\GDI_Task_05.csprojAssemblyReference.cache
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_01\GDI_Task_05\obj\Debug\netcoreapp3.1\GDI_Task_05.AssemblyInfoInputs.cache
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_01\GDI_Task_05\obj\Debug\netcoreapp3.1\GDI_Task_05.AssemblyInfo.cs
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_01\GDI_Task_05\obj\Debug\netcoreapp3.1\GDI_Task_05.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_01\GDI_Task_05\bin\Debug\netcoreapp3.1\GDI_Task_05.exe
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_01\GDI_Task_05\bin\Debug\netcoreapp3.1\GDI_Task_05.deps.json
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_01\GDI_Task_05\bin\Debug\netcoreapp3.1\GDI_Task_05.runtimeconfig.json
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_01\GDI_Task_05\bin\Debug\netcoreapp3.1\GDI_Task_05.runtimeconfig.dev.json
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_01\GDI_Task_05\bin\Debug\netcoreapp3.1\GDI_Task_05.dll
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_01\GDI_Task_05\bin\Debug\netcoreapp3.1\GDI_Task_05.pdb
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_01\GDI_Task_05\obj\Debug\netcoreapp3.1\GDI_Task_05.dll
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_01\GDI_Task_05\obj\Debug\netcoreapp3.1\GDI_Task_05.pdb
+C:\Users\Дима\Desktop\Home Work\Практика\TrainingPractice_01\GDI_Task_05\obj\Debug\netcoreapp3.1\GDI_Task_05.genruntimeconfig.cache
