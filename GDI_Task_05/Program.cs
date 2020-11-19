@@ -65,7 +65,6 @@ namespace GDI_Task_05
                         O_enX = i;
                         O_enY = j;
                     }
-
                 }
             }
             return map;
@@ -296,27 +295,18 @@ ___________¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶");
             }
         }
 
-
         static void Main(string[] args)
         {
-            int origWidth, width;
-            int origHeight, height;
+            int origWidth, origHeight;
 
             origWidth = Console.WindowWidth;//Настраиваем окно командной строки
             origHeight = Console.WindowHeight;
 
-            width = origWidth / 2;
-            height = origHeight * 2;
-
-            Console.SetWindowSize(width, height);
+            Console.SetWindowSize(origWidth / 2, origHeight * 2);
 
             map = ReadMap();
 
-            Walk();
-            
-
-            
-
+            Walk();   
         }
     }
 }
