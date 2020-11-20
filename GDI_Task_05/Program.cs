@@ -88,9 +88,9 @@ namespace GDI_Task_05
             int w;
 
         Sicl:
-            w = rnd.Next(1, 4);
+            w = rnd.Next(1, 5);
             if (x == 1) w = 4;
-            if (x == map.GetLength(0) - 1) w = 2;
+          
             switch (w) {
                 case 1:
                     if (map[x, y - 1] != '█')
